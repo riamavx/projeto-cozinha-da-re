@@ -345,7 +345,11 @@ a{
     border-radius: 10px;
     width: 90%;
   }
-
   
+  
+  .text__name {
+   font-size:2rem;
+
+  }
 
 }
