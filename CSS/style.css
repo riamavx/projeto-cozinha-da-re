@@ -85,14 +85,17 @@ a:hover {
   grid-gap: 20px;
 }
 
-.text__description {
+.text__name, .text__description {
   font-size: 1.6rem;
   line-height: 26px;
   font-weight: bold;
   color: #000;
-  height: 52px;
 }
 
+.text__description{
+font-weight: normal;
+}
+  
 .text__price {
   font-size: 1.8rem;
 }
